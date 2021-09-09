@@ -21,7 +21,8 @@ https://github.com/microsoft/app-dev-briefings AZURE FUNCTIONS <BR>
 https://azurearcjumpstart.io/ Azure Arc <BR>
 https://github.com/microsoft/hol-azure-machine-learning HOL (Hand On Labs) ML <BR>
 https://github.com/microsoft/OpenSourceLabs Open SOurce Labs <BR>
-
+https://github.com/orgs/MicrosoftLearning/repositories MICROSOFT LEARNING DEMOS AND LABS<BR>
+  
 
 
 
