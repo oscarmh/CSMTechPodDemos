@@ -17,6 +17,11 @@ https://github.com/microsoft/DataInsightsAsia DataInsights Demos/Resources <BR>
 https://github.com/microsoft/build20AcceleratedSpark FPGA <BR>
 https://github.com/microsoft/AIForAccessibility-Samples AI for Accesibility DEMOS <BR>
 https://github.com/microsoft/HealthClinic.biz END TO END DEMO <BR>
+https://github.com/microsoft/app-dev-briefings AZURE FUNCTIONS <BR>
+https://azurearcjumpstart.io/ Azure Arc <BR>
+https://github.com/microsoft/hol-azure-machine-learning HOL (Hand On Labs) ML <BR>
+https://github.com/microsoft/OpenSourceLabs Open SOurce Labs <BR>
+
 
 
 
