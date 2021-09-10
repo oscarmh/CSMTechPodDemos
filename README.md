@@ -1,5 +1,6 @@
 # CSMTechPodDemos
-Demos site for the CSM Tech Pod
+Demos site for the CSM Tech Pod, it is a work in progress to organise all resources arround azure demos. <BR><BR>
+
 CDX https://cdx.transform.microsoft.com/ <BR>
 POWER BI https://github.com/microsoft/PowerBI-Embedded-Showcases // https://playground.powerbi.com/home <BR>
 SENTINEL GROCERY https://github.com/OTRF/Azure-Sentinel2Go <BR>
